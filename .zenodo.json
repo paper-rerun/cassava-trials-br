@@ -1,0 +1,20 @@
+{
+  "title": "Cassava management trials in Brazil: 3,311 results from 20 Embrapa publications",
+  "upload_type": "dataset",
+  "description": "3,311 trial results from 77 trials on growing cassava (Manihot esculenta) in Brazil, transcribed from the tables of 20 open-access Embrapa publications (1982-2025): cultivar and clone yield trials, fertilization and liming, planting date and spacing, weed control, and pests and diseases, with trial context (place, season, planting and harvest age, cultivar, design), measured variable and value, and the page and table of origin. Each document was transcribed twice, independently, by AI agents, and every disagreement was settled against the PDF; a human reviewed the result before publication. Part of the Paper Rerun project (Open Tables).",
+  "creators": [
+    {
+      "name": "Tessaro, Filipe"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Manihot esculenta",
+    "cassava",
+    "root yield",
+    "Brazil",
+    "Embrapa",
+    "open data",
+    "AI agents"
+  ]
+}
