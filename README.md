@@ -1,5 +1,7 @@
 # Cassava management trials in Brazil
 
+Versão em português: [README.pt-BR.md](README.pt-BR.md)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23649644.svg)](https://doi.org/10.5281/zenodo.23649644)
 
 3,311 trial results from 77 trials on growing cassava (*Manihot esculenta*, "mandioca") in Brazil, taken from the tables of 20 open-access Embrapa publications: cultivar and clone yield trials, fertilization and liming, planting date and spacing, weed control, and pests and diseases (viruses, bacterial blight, root rots, whitefly, mites, hornworm). Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to.
